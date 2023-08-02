@@ -5,7 +5,7 @@ My project is based on a short story. When a man finds out that a cat is stuck i
 
 Each part of the landscape in this project is made with different shades of color so it looks like a pixelated picture.This project was developed using Python and Python Turtle Graphics! 🐍🐢
 
-## Authors
+## Author
 [Nandini Jirobe](https://github.com/nandinijirobe)
 
 ## Project Images
